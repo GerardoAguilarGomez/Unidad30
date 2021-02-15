@@ -1,0 +1,11 @@
+.fila_cabecera{
+    background-color: rgb(41, 51, 32);
+    color: rgb(200, 233, 166);
+}
+.fila_impar{
+    background-color:rgb(228, 248, 208) ;
+
+}
+.fila_par{
+    background-color: rgb(53, 90, 16);
+}

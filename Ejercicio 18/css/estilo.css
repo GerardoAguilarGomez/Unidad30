@@ -1,0 +1,23 @@
+.div_anterior,.div_posterior{
+    position:relative;
+    background-color: cyan;
+    width: 200px;
+    height: 100px;
+    border: solid 1px blue;
+}
+.div_medio{
+    position:relative;
+    background-color: cyan;
+    width: 600px;
+    height: 300px;
+    border: solid 2px red;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+div{
+    background: url(../imagenes/f01.png) left bottom repeat-x,
+    url(../imagenes/f02.png) left bottom no-repeat,
+    url(../imagenes/f03.png) left top repeat-x;
+    background-color: #a4d3ff;
+}
